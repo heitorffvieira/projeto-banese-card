@@ -1,10 +1,10 @@
 # 🚀 Projeto Criação de Campanhas de Cashback do Banese Card 
 
 ### 📈 A solução para o problema que o Banese Card atribuiu aos squads do Projeto Porto Digital que estão trabalhando nessa problemática, foi justamente essa: Criação de Campanhas de Cashback para tais objetivos da empresa.
-<br>
 
 ### 👨‍💻 Esse projeto, desenvolvido por mim, seguiu ao Backlog do projeto, que está na documentação do mesmo.
-<br>
+
+### 🌐 Acesse em: https://projeto-banese-card.vercel.app/ (Responsividade apenas para desktop)
 
 ## ⚙️ PRINCIPAIS FUNCIONALIDADES:
 
