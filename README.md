@@ -6,7 +6,7 @@
 ### 👨‍💻 Esse projeto, desenvolvido por mim, seguiu ao Backlog do projeto, que está na documentação do mesmo.
 <br>
 
-## ⚙️ FUNCIONAMENTO:
+## ⚙️ PRINCIPAIS FUNCIONALIDADES:
 
 - Validação de Login: O usuário/administrador não consegue entrar no sistema sem fornecer o seu CPF no formato correto. Após fornecer no formato correto, ele consegue acessar o sistema.
 
