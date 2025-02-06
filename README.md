@@ -4,7 +4,7 @@
 
 ### 👨‍💻 Esse projeto, desenvolvido por mim, seguiu ao Backlog do projeto, que está na documentação do mesmo.
 
-### 🌐 Acesse em: https://projeto-banese-card.vercel.app/ (Responsividade apenas para desktop)
+### 🌐 Acesse em: https://projeto-banese-card.vercel.app/ (Responsividade apenas para desktop, a empresa não pediu a responsividade)
 
 ## ⚙️ PRINCIPAIS FUNCIONALIDADES:
 
