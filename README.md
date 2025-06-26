@@ -4,8 +4,6 @@
 
 ### 👨‍💻 Esse projeto, desenvolvido por mim, seguiu ao Backlog do projeto, que está na documentação do mesmo.
 
-### 🌐 Acesse em: https://projeto-banese-card.vercel.app/ (Responsividade apenas para desktop, a empresa não pediu a responsividade)
-
 ## ⚙️ PRINCIPAIS FUNCIONALIDADES:
 
 - Validação de Login: O usuário/administrador não consegue entrar no sistema sem fornecer o seu CPF no formato correto. Após fornecer no formato correto, ele consegue acessar o sistema.
@@ -21,6 +19,10 @@
 - Ao criar a campanha, automaticamente, ela irá ficar armazenada no LocalStorage e a mesma estará na página Home na lista de campanhas ativas e estará também na tela das campanhas ativas, com um botão de encerrar campanha. Ao clicar no botão de encerrar campanha, obviamente, ela vai ser encerrada e estará na página Home na lista de campanhas encerradas e na tela das campanhas encerradas. Em ambos os casos (ativas e encerradas), terão as informações das campanhas: Nome, benefício, data de início e de fim.
 
 - A parte visual, foi feita em HTML e CSS, seguindo os padrões visuais do Banese e ao protótipo do projeto.
+
+### 🌐 Acesse em: https://projeto-banese-card.vercel.app/ (Responsividade apenas para desktop, a empresa não pediu a responsividade)
+![image](https://github.com/user-attachments/assets/ebd1a927-39b8-4b5b-861b-ede7f93bc7bb)
+
 
 ## 🤖 TECNOLOGIAS USADAS:
 
